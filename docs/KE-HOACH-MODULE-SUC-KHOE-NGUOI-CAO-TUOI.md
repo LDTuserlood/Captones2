@@ -58,11 +58,11 @@ Module này **không** xử lý camera, nhận diện té ngã, Telegram, chẩn
 
 ### Bảng dữ liệu dự kiến
 
-`users`, `elders`, `elder_caregivers`, `health_conditions`, `medications`, `daily_logs`, `insights`. Sơ đồ quan hệ chi tiết và ràng buộc dữ liệu là đầu ra của ngày 3.
+`users`, `elders`, `elder_caregivers`, `health_conditions`, `medications`, `daily_logs`, `insights`. Sơ đồ quan hệ chi tiết và ràng buộc dữ liệu là đầu ra của thẻ EH-03.
 
 ### API dự kiến
 
-`/auth`, `/elders`, `/elders/{id}/conditions`, `/elders/{id}/medications`, `/elders/{id}/logs`, `/elders/{id}/insights`. Danh sách method, dữ liệu vào/ra, lỗi và quyền cụ thể là đầu ra của ngày 4. Đường dẫn là hợp đồng của module, không phụ thuộc phần té ngã.
+`/auth`, `/elders`, `/elders/{id}/conditions`, `/elders/{id}/medications`, `/elders/{id}/logs`, `/elders/{id}/insights`. Danh sách method, dữ liệu vào/ra, lỗi và quyền cụ thể là đầu ra của thẻ EH-04. Đường dẫn là hợp đồng của module, không phụ thuộc phần té ngã.
 
 ## 4. Lịch triển khai từ 01/09 đến 20/12/2026
 
