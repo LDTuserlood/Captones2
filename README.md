@@ -46,6 +46,8 @@ Không có đăng nhập thật. Tài khoản Minh Anh là vai trò minh họa. 
 
 ## Cấu trúc để nhóm phát triển tiếp
 
+Kế hoạch riêng cho module hồ sơ và theo dõi sức khỏe người cao tuổi (01/09–20/12/2026): [kế hoạch triển khai](docs/KE-HOACH-MODULE-SUC-KHOE-NGUOI-CAO-TUOI.md) và [bảng theo dõi công việc](docs/THEO-DOI-MODULE-SUC-KHOE.md).
+
 - `app/`: trang Next.js, metadata và giao diện chung.
 - `components/dashboard.tsx`: điều hướng, trạng thái chung, sự kiện và mô phỏng.
 - `components/evidence.tsx`: bằng chứng và quy trình xác nhận.
