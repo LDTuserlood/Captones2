@@ -1,5 +1,7 @@
 # Bảng theo dõi module sức khỏe người cao tuổi
 
+> **Bảng tiến độ chính:** [GitHub Project — Module sức khỏe người cao tuổi](https://github.com/users/LDTuserlood/projects/3/views/3). Các thẻ EH-01 đến EH-20 là GitHub Issues có hạn, người phụ trách và tiêu chí hoàn thành. Cập nhật trạng thái tại GitHub Project; bảng Markdown dưới đây là bản kế hoạch gốc và có thể không phản ánh trạng thái mới nhất.
+
 **Tài liệu gốc:** [Kế hoạch và tiêu chí nghiệm thu](KE-HOACH-MODULE-SUC-KHOE-NGUOI-CAO-TUOI.md)
 
 **Ngày bắt đầu dự án:** 01/09/2026 · **Hạn hoàn thành:** 20/12/2026 · **Người phụ trách:** chủ module hồ sơ sức khỏe
@@ -7,7 +9,7 @@
 
 ## Cách dùng như một bảng Trello trong Git
 
-Mỗi `EH-xx` là một thẻ. Sửa cột **Trạng thái** thành `Todo`, `Doing`, `Review`, `Blocked` hoặc `Done`; điền ngày và link commit/PR vào cột **Minh chứng**. Đưa thẻ sang `Review` khi đã có sản phẩm để kiểm tra, sang `Done` khi đạt đủ tiêu chí trong kế hoạch. Mỗi lần cập nhật bảng hãy lưu bằng Git để thấy lịch sử tiến độ.
+Mỗi `EH-xx` là một GitHub Issue. Trên [bảng Kanban](https://github.com/users/LDTuserlood/projects/3/views/3), chuyển thẻ từ `Todo` sang `In Progress` khi bắt đầu và sang `Done` khi đạt tiêu chí; ghi link commit/PR hoặc kết quả kiểm tra trong Issue tương ứng. Cột **Trạng thái** dưới đây ghi lại trạng thái lúc lập kế hoạch, không phải dữ liệu tự đồng bộ từ GitHub.
 
 | Mã | Hạn dự kiến | Thẻ công việc | Trạng thái | Minh chứng / ghi chú |
 |---|---|---|---|---|

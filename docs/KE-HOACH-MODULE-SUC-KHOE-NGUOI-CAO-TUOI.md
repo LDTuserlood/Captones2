@@ -1,5 +1,7 @@
 # Kế hoạch module hồ sơ và theo dõi sức khỏe người cao tuổi
 
+**Theo dõi tiến độ trực tiếp:** [GitHub Project — Module sức khỏe người cao tuổi](https://github.com/users/LDTuserlood/projects/3/views/3).
+
 > Phạm vi: chỉ phần của người phụ trách module hồ sơ sức khỏe. Dự án bắt đầu **01/09/2026** và hạn hoàn thành là **20/12/2026**. Kế hoạch có 20 thẻ công việc với khoảng ngày và hạn riêng; ngày 19–20/12 là thời gian dự phòng trước hạn.
 
 **Hiện trạng tại 17/09/2026:** web nền Next.js đã có trong repo. Module hồ sơ sức khỏe chưa được triển khai, nên không tự đánh dấu các thẻ của module là hoàn thành. Khoảng 01–17/09 được ghi nhận là giai đoạn chuẩn bị web nền của dự án, không tính là kết quả đã hoàn thành của module này.
